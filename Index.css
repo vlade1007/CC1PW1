@@ -1,0 +1,311 @@
+.button_menu{
+    width: 30px;
+    position: relative;
+    left: 25px;
+    bottom: -15px;
+
+}
+
+.button{
+    border: 5px solid pink;
+    border-radius: 100px;
+    width: 25px;
+    height: 25px;
+    background-color: rgb(183, 0, 255);
+    position: relative;
+    top: 53px;
+    left: 290px;
+}
+
+
+.bordure_horizontale{
+     border-top: 25px solid rgba(236, 16, 225, 0.5);
+     width: 350px;
+     position: relative;
+     bottom: 52px;
+     border-top-left-radius: 20px;
+     border-top-right-radius: 20px;
+     
+}
+.bordure_verticale_gauche{
+    border-left: 25px solid rgba(236, 16, 225, 0.5);
+    border-radius: 25px;
+    padding: 150px;
+    position: relative;
+    bottom: 90px;
+    left: 0px;
+    height: 480px;
+
+    
+    
+}
+.bordure_verticale_droite{
+    border-right: 25px solid rgba(236, 16, 225, 0.5);
+    border-radius: 25px;
+    padding: 150px;
+    position: relative;
+    bottom: 883px;
+    right: 983px;/* ou ringht: 945px; pour Opera Mini*/
+    height: 480px;
+    
+
+    
+    
+}
+.barre_horizontale1{
+    border-top: 35px solid rgba(236, 16, 225, 0.5);
+    width: 350px;
+    position: relative;
+    bottom: 1344px;
+   
+    
+
+    
+    
+}
+.Question{
+       font-size: 24px;
+       position: relative;
+       bottom: 1099px;
+       left: 25px;
+       font-weight: bolder;
+}
+
+
+.Adulte{
+    position: relative;
+    left: 180px;
+    bottom: 1156px;
+    background-color: rgb(183, 0, 255);
+    width: 50px;
+    border-radius: 50px;
+    padding: 10px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+
+}
+.a1{
+    text-decoration: none;
+    color: black;
+
+}
+.Enfant{
+    position: relative;
+    left: 255px;
+    bottom: 1204px;
+    background-color: rgb(149, 147, 150);
+    width: 50px;
+    border-radius: 50px;
+    padding: 10px;
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.74);
+
+}
+.Choix{
+    position: relative;
+    left: 25px;
+    bottom: 1099px;
+    font-weight: bolder;
+    font-size: 18px;
+}
+
+.barre_horizontale2{
+    border-top: 20px solid rgba(236, 16, 225, 0.5);
+    width: 350px;
+    position: relative;
+    bottom: 1322px;
+       
+}
+.corona{
+    font-weight: bolder;
+    font-size: 15px;
+    background:rgb(98, 0, 255);
+    width: 100px;
+    height: 200px;
+    border-radius: 25px;
+    padding-top: 35px;
+    padding-left: 30px;
+    color: rgb(255, 255, 255);
+    position: relative;
+    bottom: 1970px;
+    left: 25px;
+
+}
+.rhume{
+    font-weight: bolder;
+    font-size: 15px;
+    background:rgb(183, 0, 255);
+    width: 100px;
+    height: 200px;
+    border-radius: 25px;
+    padding-top: 35px;
+    padding-left: 30px;
+    color: rgba(255, 255, 255);
+    position: relative;
+    bottom: 2220px;
+    left: 164px;
+}
+.rhum{
+    font-weight: bolder;
+    font-size: 15px;
+    position: relative;
+    bottom: 2435px;
+    left: 315px;
+    color: white;
+    
+    
+}
+.fond{
+    border-left: 47px solid rgba(236, 16, 225);
+    height: 236px;
+    border-radius: 25px;
+    position: relative;
+    left: 303px;
+    bottom: 1719px;
+
+
+}
+.barre_verticale1{
+    border-left: 9px solid rgb(226, 75, 16, 0.5);
+    padding: 1px;
+    height: 235px;
+    position: relative;
+    left: 155px;
+    bottom: 1219px;
+}
+.barre_verticale2{
+    border-left: 9px solid rgb(226, 75, 16, 0.5);
+    padding: 1px;
+    height: 235px;
+    position: relative;
+    left: 294px;
+    bottom: 1469px;
+    
+}
+
+.td1{
+    border: 1px solid rgb(238, 221, 247);
+    width: 128px;
+    border-radius: 18px;
+    height: 60px;
+    padding: 5px;
+    display: inline-block;
+    position: relative;
+    bottom: 2218px;
+    left: 25px;
+
+}
+.td2{
+    border: 1px solid rgb(238, 221, 247);
+    width: 138px;
+    border-radius: 18px;
+    height: 60px;
+    padding: 5px;
+    display: inline-block;
+    position: relative;
+    bottom: 2218px;
+    left: 30px;
+
+
+}
+
+
+.icon_generaliste{
+    border: 5px solid rgb(183, 0, 255);
+    border-radius: 13px;
+    width: 25px;
+    height: 25px;
+    background-color: rgb(183, 0, 255);
+    position: relative;
+    left: 9px;
+
+    
+    
+}
+
+.icon_specialiste{
+    border: 5px solid rgb(255, 0, 170);
+    border-radius: 13px;
+    width: 25px;
+    height: 25px;
+    background-color: rgb(255, 0, 170);
+    position: relative;
+    bottom: 2px;
+    left: 13px;
+
+
+}
+
+.barre_horizontale3{
+    border-top: 35px solid rgba(236, 16, 225, 0.5);
+    width: 350px;
+    position: relative;
+    bottom: 2487px;
+    
+   
+}
+.barre_horizontale4{
+    border-top: 20px solid rgba(236, 16, 225, 0.5);
+    width: 350px;
+    position: relative;
+    bottom: 2500px;
+    
+   
+}
+.choix2{
+    font-weight: bolder;
+    font-size: 15px;
+    position: relative;
+    bottom: 2635px;
+    left: 25px;
+
+}
+.barre_verticale3{
+    border-left: 9px solid rgb(226, 75, 16, 0.5);
+    padding: 1px;
+    height: 71px;
+    position: relative;
+    left: 165px;
+    bottom: 2513px;
+
+}
+.generaliste{
+    position: relative;
+    left: 50px;
+    bottom: 50px;
+
+}
+.specialiste{
+    position: relative;
+    left: 55px;
+    bottom: 49px;
+
+}
+.id1{
+    position: relative;
+    bottom: 437px;
+}
+.id2{
+    position: relative;
+    bottom: 50px;
+}
+
+.id3{
+    position: relative;
+    bottom: 415px;
+
+}
+
+.id4{
+    position: relative;
+    bottom: -91px;
+
+}
+
+
+
